@@ -1,0 +1,12 @@
+install.packages(
+  c(
+    'data.tables',
+    'bit64',
+    'rsample',
+    'dplyr',
+    'ggplot2',
+    'glmnet',
+    'mltools',
+    'broom'
+  )
+)
