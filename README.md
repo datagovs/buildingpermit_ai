@@ -9,3 +9,4 @@ https://data.miamigov.com/Government/Building-Permits-Issued-By-City-Of-Miami-Fr
 
 Export -> CSV
 
+Descriptions of the fields are available in the [releases](https://github.com/gethousing/gethousing_research/releases/).
