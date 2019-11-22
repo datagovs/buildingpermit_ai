@@ -1,7 +1,7 @@
-# Please push to https://github.com/datakind/msvdd_Code_for_Miami
+# Gethousing_research (private) 
+AI research projects in support of gethousing.org and its mission.
 
-# gethousing_research
-AI research projects in support of gethousing.org and its mission
+Our repo and documents from our first #DataDive is private and not public.
 
 ## Download data
 
