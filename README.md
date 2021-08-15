@@ -1,7 +1,7 @@
-# Gethousing_research (private) 
-AI research projects in support of gethousing.org and its mission.
+# Building Permit for GetHousing Project
 
-Our repo and documents from our first #DataDive is private and not public.
+This project took building permit data and through a data dive and sprint a team of data scientist built
+a predictive model for permits that was accessible as a Web Application Program Interface. 
 
 ## Download data
 
