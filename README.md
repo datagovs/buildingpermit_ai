@@ -1,4 +1,4 @@
-# An Open AI Model | Building Permit API
+# Building Permit API | Open AI Model
 
 Building Permit inspections and permits are important process for cities and businesses.
 
